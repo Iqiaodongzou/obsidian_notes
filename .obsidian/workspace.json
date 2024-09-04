@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "b637ca14a04a1423",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c1655444f71fe91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaeb2d0f868a27dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读笔记分类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d93035fddcbc6b80",
+    "type": "split",
+    "children": [
+      {
+        "id": "5283aa6753fe3f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2763ea0cfada4e99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e2649d9c4955750",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f2896cd30e09d3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c3a92b1f20420d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "65ee43f1b794e0b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a837b7bfcee8cb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "527058ea94cfd88b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "阅读笔记分类.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33894a4a42260a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "阅读笔记分类.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d86c53d19e04a25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1e12414b1b0e1ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "阅读笔记分类.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aaeb2d0f868a27dd",
+  "lastOpenFiles": [
+    "README.md",
+    "阅读笔记分类.md",
+    "NONFICTION.md",
+    "FICTION.md",
+    "create a link.md"
+  ]
+}
