@@ -8,15 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aaeb2d0f868a27dd",
+            "id": "1419799d31121b1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读笔记分类.md",
+                "file": "master skills.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "631b0cfda8bf18a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7585377dfc1b8267",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读笔记分类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读笔记分类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,16 +144,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "阅读笔记分类.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,12 +164,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaeb2d0f868a27dd",
+  "active": "7585377dfc1b8267",
   "lastOpenFiles": [
+    "master skills.md",
+    "MATH.md",
+    "态度.md",
+    "Software Engineering.md",
     "README.md",
-    "阅读笔记分类.md",
+    "READING.md",
+    "PROGRAMING.md",
     "NONFICTION.md",
+    "GRAPHIC.md",
     "FICTION.md",
+    "ERLANG.md",
+    "ENGLISH.md",
+    "Calculus with Julia.md",
+    "01-studynotes",
     "create a link.md"
   ]
 }
