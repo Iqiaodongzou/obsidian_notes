@@ -11,12 +11,8 @@
             "id": "1419799d31121b1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FICTION.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FICTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FICTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FICTION.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "63b85e7bb5cf04ce",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -151,19 +151,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "1419799d31121b1a",
   "lastOpenFiles": [
-    "NONFICTION.md",
-    "理想国.md",
-    "FICTION.md",
+    "项目学习.md",
     "ERLANG.md",
-    "ENGLISH.md",
+    "分布式应用.md",
+    "READING.md",
+    "FICTION.md",
+    "NONFICTION.md",
     "master skills.md",
-    "Galatians.md",
+    "狼图腾.md",
+    "苏菲的世界.md",
+    "禅与摩托车维修艺术.md",
+    "斐德若.md",
+    "卡拉马佐夫兄弟.md",
     "LIFE.md",
+    "三国演义.md",
+    "README.md",
+    "理想国.md",
+    "ENGLISH.md",
+    "Galatians.md",
     "BIBLE.md",
     "书籍.md",
     "诗歌.md",
@@ -172,16 +184,6 @@
     "门训.md",
     "PYTHON.md",
     "LANGUAGE.md",
-    "分布式应用.md",
-    "三国演义.md",
-    "READING.md",
-    "GRAPHIC.md",
-    "Calculus with Julia.md",
-    "MATH.md",
-    "Ephesians.md",
-    "培根随笔.md",
-    "态度.md",
-    "Software Engineering.md",
     "01-studynotes"
   ]
 }
