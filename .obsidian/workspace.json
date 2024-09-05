@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "master skills.md",
+                "file": "FICTION.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "631b0cfda8bf18a9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7585377dfc1b8267",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -107,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FICTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FICTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FICTION.md"
+              }
             }
           }
         ]
@@ -164,22 +154,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7585377dfc1b8267",
+  "active": "1419799d31121b1a",
   "lastOpenFiles": [
-    "master skills.md",
-    "MATH.md",
-    "态度.md",
-    "Software Engineering.md",
-    "README.md",
-    "READING.md",
-    "PROGRAMING.md",
     "NONFICTION.md",
-    "GRAPHIC.md",
+    "理想国.md",
     "FICTION.md",
     "ERLANG.md",
     "ENGLISH.md",
+    "master skills.md",
+    "Galatians.md",
+    "LIFE.md",
+    "BIBLE.md",
+    "书籍.md",
+    "诗歌.md",
+    "讲台.md",
+    "查经.md",
+    "门训.md",
+    "PYTHON.md",
+    "LANGUAGE.md",
+    "分布式应用.md",
+    "三国演义.md",
+    "READING.md",
+    "GRAPHIC.md",
     "Calculus with Julia.md",
-    "01-studynotes",
-    "create a link.md"
+    "MATH.md",
+    "Ephesians.md",
+    "培根随笔.md",
+    "态度.md",
+    "Software Engineering.md",
+    "01-studynotes"
   ]
 }
