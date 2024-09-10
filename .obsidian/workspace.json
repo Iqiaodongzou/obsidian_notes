@@ -8,47 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1419799d31121b1a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "54bc2beaafe865de",
+            "id": "aefb5748b5ed37d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NONFICTION.md",
+                "file": "MASTER SKILLS/READING/NONFICTION.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "31b3f17510fec83b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "READING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cf4abc20399da58",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NONFICTION.md",
+                "file": "MASTER SKILLS/READING/NONFICTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NONFICTION.md",
+                "file": "MASTER SKILLS/READING/NONFICTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NONFICTION.md"
+                "file": "MASTER SKILLS/READING/NONFICTION.md"
               }
             }
           },
@@ -193,34 +164,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54bc2beaafe865de",
+  "active": "aefb5748b5ed37d0",
   "lastOpenFiles": [
-    "小狗钱钱.md",
-    "READING.md",
-    "NONFICTION.md",
-    "亚里士多德 修辞学.md",
+    "MASTER SKILLS/READING/FICTION.md",
+    "MASTER SKILLS/READING/NONFICTION.md",
+    "MASTER SKILLS/READING/狼图腾.md",
     "MASTER SKILLS.md",
-    "MUSIC.md",
-    "MUSIC THEORY.md",
-    "ENGLISH.md",
-    "FICTION.md",
-    "斐德若.md",
-    "理想国.md",
-    "狼图腾.md",
-    "苏菲的世界.md",
-    "禅与摩托车维修艺术.md",
-    "卡拉马佐夫兄弟.md",
-    "穷查理宝典.md",
-    "西塞罗 修辞学.md",
-    "三国演义.md",
-    "培根随笔.md",
-    "态度.md",
-    "LIFE.md",
-    "查经.md",
-    "门训.md",
-    "诗歌.md",
-    "杭电小组.md",
-    "小组成员档案.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/分布式应用.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md",
+    "MASTER SKILLS/HEALTHY/HEALTHY.md",
+    "MASTER SKILLS/LIFE/查经.md",
+    "MASTER SKILLS/LIFE/门训.md",
+    "MASTER SKILLS/LIFE/诗歌.md",
+    "GRAPHIC.md",
+    "MASTER SKILLS/READING/READING.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md",
+    "MASTER SKILLS/ENGLISH/ENGLISH.md",
+    "MASTER SKILLS/ENGLISH",
+    "MASTER SKILLS/MUSIC/MUSIC.md",
+    "MASTER SKILLS/MATH/MATH.md",
+    "MASTER SKILLS/MATH",
+    "MASTER SKILLS/HEALTHY",
+    "MASTER SKILLS/MUSIC",
+    "MASTER SKILLS/COMPUTOR SCIENCE",
+    "MASTER SKILLS/COMPUTOR SCIENCE/MACHINE LEARNING.md",
+    "MASTER SKILLS/MATH/朴素贝叶斯.md",
+    "MASTER SKILLS/LIFE/讲台.md",
+    "MASTER SKILLS/LIFE/杭电小组.md",
+    "MASTER SKILLS/LIFE/小组数据统计.md",
+    "MASTER SKILLS/LIFE/小组成员档案.md",
+    "MASTER SKILLS/LIFE/QIANQIAN.md",
+    "MASTER SKILLS/LIFE/LINLIN.md",
+    "MASTER SKILLS/LIFE/LIFE.md",
+    "MASTER SKILLS/READING",
+    "MASTER SKILLS/LIFE",
+    "MASTER SKILLS",
     "01-studynotes"
   ]
 }
