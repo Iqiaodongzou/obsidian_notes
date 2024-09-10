@@ -2,4 +2,5 @@
 
 [[MASTER SKILLS]]
 
+[[MUSIC THEORY]]
 [[PIANO]]
