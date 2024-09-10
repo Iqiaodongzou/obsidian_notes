@@ -1,6 +1,6 @@
 2024年9月4日10:10:23
 
-[[master skills]]
+[[MASTER SKILLS]]
 
 [[FICTION]]
 [[NONFICTION]]

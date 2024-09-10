@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 6084218
       }
+    },
+    {
+      "query": "line:(ERLANG)",
+      "color": {
+        "a": 1,
+        "rgb": 14048454
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5359795996225982,
+  "scale": 0.751434232227773,
   "close": true
 }
