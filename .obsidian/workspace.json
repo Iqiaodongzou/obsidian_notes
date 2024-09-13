@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "add143a609e55bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MASTER SKILLS/LIFE/传福音.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +77,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "332b9aa659b4bc13",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MASTER SKILLS/READING/NONFICTION.md",
+                "file": "MASTER SKILLS/LIFE/传福音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MASTER SKILLS/READING/NONFICTION.md",
+                "file": "MASTER SKILLS/LIFE/传福音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MASTER SKILLS/READING/NONFICTION.md"
+                "file": "MASTER SKILLS/LIFE/传福音.md"
               }
             }
           },
@@ -149,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 585.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,10 +185,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aefb5748b5ed37d0",
+  "active": "2763ea0cfada4e99",
   "lastOpenFiles": [
-    "MASTER SKILLS/READING/FICTION.md",
+    "MASTER SKILLS/LIFE/门训.md",
+    "MASTER SKILLS/LIFE/传福音.md",
+    "MASTER SKILLS/LIFE/灵修.md",
+    "MASTER SKILLS/LIFE/祷告.md",
     "MASTER SKILLS/READING/NONFICTION.md",
+    "MASTER SKILLS/TRAVEL MAP/NORWAY.md",
+    "MASTER SKILLS/TRAVEL MAP/THE WORLD.md",
+    "MASTER SKILLS/TRAVEL MAP",
+    "MASTER SKILLS/READING/FICTION.md",
     "MASTER SKILLS/READING/狼图腾.md",
     "MASTER SKILLS.md",
     "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md",
@@ -175,7 +203,6 @@
     "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md",
     "MASTER SKILLS/HEALTHY/HEALTHY.md",
     "MASTER SKILLS/LIFE/查经.md",
-    "MASTER SKILLS/LIFE/门训.md",
     "MASTER SKILLS/LIFE/诗歌.md",
     "GRAPHIC.md",
     "MASTER SKILLS/READING/READING.md",
@@ -192,11 +219,6 @@
     "MASTER SKILLS/MATH/朴素贝叶斯.md",
     "MASTER SKILLS/LIFE/讲台.md",
     "MASTER SKILLS/LIFE/杭电小组.md",
-    "MASTER SKILLS/LIFE/小组数据统计.md",
-    "MASTER SKILLS/LIFE/小组成员档案.md",
-    "MASTER SKILLS/LIFE/QIANQIAN.md",
-    "MASTER SKILLS/LIFE/LINLIN.md",
-    "MASTER SKILLS/LIFE/LIFE.md",
     "MASTER SKILLS/READING",
     "MASTER SKILLS/LIFE",
     "MASTER SKILLS",
