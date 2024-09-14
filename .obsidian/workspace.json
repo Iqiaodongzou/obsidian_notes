@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aefb5748b5ed37d0",
+            "id": "a62a9f7ec20d15dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MASTER SKILLS/READING/NONFICTION.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MASTER SKILLS/READING/NONFICTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MASTER SKILLS/READING/NONFICTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MASTER SKILLS/READING/NONFICTION.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,16 +172,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aefb5748b5ed37d0",
+  "active": "2763ea0cfada4e99",
   "lastOpenFiles": [
-    "勉励的话.md",
+    "MASTER SKILLS/LIFE/做个好管家.md",
     "MASTER SKILLS/LIFE/门训.md",
+    "MASTER SKILLS/LIFE/得胜的生活.md",
+    "MASTER SKILLS/LIFE/祷告.md",
+    "MASTER SKILLS/LIFE/总结.md",
+    "MASTER SKILLS/LIFE/勉励的话.md",
+    "MASTER SKILLS/LIFE/有异象的人生.md",
+    "MASTER SKILLS/LIFE/传福音.md",
+    "MASTER SKILLS/LIFE/明白神的旨意.md",
+    "MASTER SKILLS/LIFE/浸礼.md",
+    "MASTER SKILLS/LIFE/得救的确据.md",
+    "MASTER SKILLS/LIFE/禁食祷告.md",
+    "MASTER SKILLS/LIFE/查经.md",
+    "MASTER SKILLS/LIFE/教会生活.md",
+    "MASTER SKILLS/READING/NONFICTION.md",
     "MASTER SKILLS/LIFE/LIFE.md",
     "MASTER SKILLS/LIFE/杭电小组.md",
-    "MASTER SKILLS/LIFE/传福音.md",
-    "MASTER SKILLS/READING/NONFICTION.md",
     "MASTER SKILLS/LIFE/灵修.md",
-    "MASTER SKILLS/LIFE/祷告.md",
     "MASTER SKILLS/TRAVEL MAP/NORWAY.md",
     "MASTER SKILLS/TRAVEL MAP/THE WORLD.md",
     "MASTER SKILLS/TRAVEL MAP",
@@ -199,21 +201,11 @@
     "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md",
     "MASTER SKILLS/COMPUTOR SCIENCE/分布式应用.md",
     "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md",
-    "MASTER SKILLS/HEALTHY/HEALTHY.md",
-    "MASTER SKILLS/LIFE/查经.md",
-    "MASTER SKILLS/LIFE/诗歌.md",
-    "GRAPHIC.md",
-    "MASTER SKILLS/READING/READING.md",
-    "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md",
-    "MASTER SKILLS/ENGLISH/ENGLISH.md",
     "MASTER SKILLS/ENGLISH",
-    "MASTER SKILLS/MUSIC/MUSIC.md",
-    "MASTER SKILLS/MATH/MATH.md",
     "MASTER SKILLS/MATH",
     "MASTER SKILLS/HEALTHY",
     "MASTER SKILLS/MUSIC",
     "MASTER SKILLS/COMPUTOR SCIENCE",
-    "MASTER SKILLS/COMPUTOR SCIENCE/MACHINE LEARNING.md",
     "MASTER SKILLS/READING",
     "MASTER SKILLS/LIFE",
     "MASTER SKILLS",
