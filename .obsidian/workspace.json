@@ -16,12 +16,24 @@
             }
           },
           {
-            "id": "865c4b17551cb0bf",
+            "id": "629cf9e7e11689a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "祷告 从责任到喜乐.md",
+                "file": "MASTER SKILLS/LIFE/走出婚姻的误区.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e091414d528b774b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MASTER SKILLS/READING/READING.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "祷告 从责任到喜乐.md",
+                "file": "MASTER SKILLS/LIFE/走出婚姻的误区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "祷告 从责任到喜乐.md",
+                "file": "MASTER SKILLS/LIFE/走出婚姻的误区.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "祷告 从责任到喜乐.md"
+                "file": "MASTER SKILLS/LIFE/走出婚姻的误区.md"
               }
             }
           },
@@ -181,23 +193,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "865c4b17551cb0bf",
+  "active": "629cf9e7e11689a4",
   "lastOpenFiles": [
+    "MASTER SKILLS/READING/READING.md",
+    "MASTER SKILLS/LIFE/走出婚姻的误区.md",
+    "MASTER SKILLS/LIFE/书籍LI.md",
     "MASTER SKILLS/LIFE/LIFE.md",
-    "祷告 从责任到喜乐.md",
     "MASTER SKILLS/LIFE/BIBLE.md",
+    "MASTER SKILLS/READING/NONFICTION.md",
+    "MASTER SKILLS/READING/纳瓦尔宝典.md",
+    "MASTER SKILLS/LIFE/祷告 从责任到喜乐.md",
+    "MASTER SKILLS/LIFE/祷告.md",
     "MASTER SKILLS/MUSIC/MUSIC THEORY.md",
     "MASTER SKILLS/MUSIC/MUSIC.md",
     "MASTER SKILLS/MUSIC/PIANO.md",
     "MASTER SKILLS/READING/FICTION.md",
     "MASTER SKILLS/READING/卡拉马佐夫兄弟.md",
     "MASTER SKILLS/READING/禅与摩托车维修艺术.md",
-    "MASTER SKILLS/READING/READING.md",
-    "MASTER SKILLS/READING/NONFICTION.md",
     "MASTER SKILLS/READING/西塞罗 修辞学.md",
     "MASTER SKILLS/READING/亚里士多德 修辞学.md",
     "MASTER SKILLS/READING/三国演义.md",
-    "我们的身体.md",
+    "MASTER SKILLS/READING/我们的身体.md",
     "MASTER SKILLS/READING/元智慧.md",
     "MASTER SKILLS/MATH/微积分素材.md",
     "MASTER SKILLS/MATH/MATH.md",
@@ -205,10 +221,6 @@
     "MASTER SKILLS/READING/穷查理宝典.md",
     "MASTER SKILLS/READING/态度.md",
     "MASTER SKILLS/LIFE/做个好管家.md",
-    "MASTER SKILLS/LIFE/门训.md",
-    "MASTER SKILLS/LIFE/得胜的生活.md",
-    "MASTER SKILLS/LIFE/祷告.md",
-    "MASTER SKILLS/LIFE/总结.md",
     "MASTER SKILLS/TRAVEL MAP",
     "MASTER SKILLS/ENGLISH",
     "MASTER SKILLS/MATH",
