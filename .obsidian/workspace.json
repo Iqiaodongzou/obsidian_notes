@@ -11,8 +11,12 @@
             "id": "a62a9f7ec20d15dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MASTER SKILLS/LIFE/LIFE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASTER SKILLS/LIFE/走出婚姻的误区.md",
+                "file": "MASTER SKILLS/LIFE/LIFE.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MASTER SKILLS/LIFE/走出婚姻的误区.md",
+                "file": "MASTER SKILLS/LIFE/LIFE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MASTER SKILLS/LIFE/走出婚姻的误区.md",
+                "file": "MASTER SKILLS/LIFE/LIFE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MASTER SKILLS/LIFE/走出婚姻的误区.md"
+                "file": "MASTER SKILLS/LIFE/LIFE.md"
               }
             }
           },
@@ -193,13 +196,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "629cf9e7e11689a4",
+  "active": "2763ea0cfada4e99",
   "lastOpenFiles": [
-    "MASTER SKILLS/READING/READING.md",
-    "MASTER SKILLS/LIFE/走出婚姻的误区.md",
-    "MASTER SKILLS/LIFE/书籍LI.md",
+    "MASTER SKILLS/LIFE/基督是分开的吗.md",
     "MASTER SKILLS/LIFE/LIFE.md",
+    "MASTER SKILLS/LIFE/杭电小组.md",
+    "MASTER SKILLS/LIFE/生命长进的道路.md",
+    "MASTER SKILLS/LIFE/合神心意的事奉.md",
     "MASTER SKILLS/LIFE/BIBLE.md",
+    "MASTER SKILLS/LIFE/走出婚姻的误区.md",
+    "MASTER SKILLS/READING/READING.md",
+    "MASTER SKILLS/LIFE/书籍LI.md",
     "MASTER SKILLS/READING/NONFICTION.md",
     "MASTER SKILLS/READING/纳瓦尔宝典.md",
     "MASTER SKILLS/LIFE/祷告 从责任到喜乐.md",
@@ -217,10 +224,6 @@
     "MASTER SKILLS/READING/元智慧.md",
     "MASTER SKILLS/MATH/微积分素材.md",
     "MASTER SKILLS/MATH/MATH.md",
-    "MASTER SKILLS.md",
-    "MASTER SKILLS/READING/穷查理宝典.md",
-    "MASTER SKILLS/READING/态度.md",
-    "MASTER SKILLS/LIFE/做个好管家.md",
     "MASTER SKILLS/TRAVEL MAP",
     "MASTER SKILLS/ENGLISH",
     "MASTER SKILLS/MATH",
