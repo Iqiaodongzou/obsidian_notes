@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASTER SKILLS/LIFE/LIFE.md",
+                "file": "MASTER SKILLS/LIFE/祷告.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASTER SKILLS/READING/READING.md",
+                "file": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8a4742aae3f5481",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MASTER SKILLS/LIFE/LIFE.md",
+                "file": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MASTER SKILLS/LIFE/LIFE.md",
+                "file": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MASTER SKILLS/LIFE/LIFE.md"
+                "file": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md"
               }
             }
           },
@@ -196,21 +205,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2763ea0cfada4e99",
+  "active": "e091414d528b774b",
   "lastOpenFiles": [
-    "MASTER SKILLS/LIFE/基督是分开的吗.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
+    "MASTER SKILLS/LIFE/祷告.md",
     "MASTER SKILLS/LIFE/LIFE.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/Software Engineering.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md",
+    "MASTER SKILLS.md",
+    "MASTER SKILLS/READING/NONFICTION.md",
+    "MASTER SKILLS/READING/纳瓦尔宝典.md",
+    "MASTER SKILLS/READING/READING.md",
+    "MASTER SKILLS/LIFE/门训.md",
+    "MASTER SKILLS/LIFE/基督是分开的吗.md",
     "MASTER SKILLS/LIFE/杭电小组.md",
     "MASTER SKILLS/LIFE/生命长进的道路.md",
     "MASTER SKILLS/LIFE/合神心意的事奉.md",
     "MASTER SKILLS/LIFE/BIBLE.md",
     "MASTER SKILLS/LIFE/走出婚姻的误区.md",
-    "MASTER SKILLS/READING/READING.md",
     "MASTER SKILLS/LIFE/书籍LI.md",
-    "MASTER SKILLS/READING/NONFICTION.md",
-    "MASTER SKILLS/READING/纳瓦尔宝典.md",
     "MASTER SKILLS/LIFE/祷告 从责任到喜乐.md",
-    "MASTER SKILLS/LIFE/祷告.md",
     "MASTER SKILLS/MUSIC/MUSIC THEORY.md",
     "MASTER SKILLS/MUSIC/MUSIC.md",
     "MASTER SKILLS/MUSIC/PIANO.md",
@@ -219,11 +233,6 @@
     "MASTER SKILLS/READING/禅与摩托车维修艺术.md",
     "MASTER SKILLS/READING/西塞罗 修辞学.md",
     "MASTER SKILLS/READING/亚里士多德 修辞学.md",
-    "MASTER SKILLS/READING/三国演义.md",
-    "MASTER SKILLS/READING/我们的身体.md",
-    "MASTER SKILLS/READING/元智慧.md",
-    "MASTER SKILLS/MATH/微积分素材.md",
-    "MASTER SKILLS/MATH/MATH.md",
     "MASTER SKILLS/TRAVEL MAP",
     "MASTER SKILLS/ENGLISH",
     "MASTER SKILLS/MATH",
