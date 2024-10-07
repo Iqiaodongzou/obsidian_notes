@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a62a9f7ec20d15dc",
+            "id": "629cf9e7e11689a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASTER SKILLS/LIFE/祷告.md",
+                "file": "MASTER SKILLS/READING/大学之路.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "629cf9e7e11689a4",
+            "id": "07608a22ffae2aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASTER SKILLS/LIFE/LIFE.md",
+                "file": "MASTER SKILLS/READING/论幸福的生活.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,22 +37,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
+                "file": "MASTER SKILLS/READING/文明之光.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a8a4742aae3f5481",
+            "id": "0a190b95b71ecb59",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MASTER SKILLS/READING/大学之路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cc027425d008d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MASTER SKILLS/READING/沉思录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c115f16f0dd61cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MASTER SKILLS/READING/约翰克里斯多夫.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d17acba737a6820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MASTER SKILLS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "338c31dc5b7b4424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MASTER SKILLS/LIFE/小组成员档案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b9b4d3659d6540e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MASTER SKILLS/LIFE/YUANHAO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -134,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
+                "file": "MASTER SKILLS/LIFE/YUANHAO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
+                "file": "MASTER SKILLS/LIFE/YUANHAO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md"
+                "file": "MASTER SKILLS/LIFE/YUANHAO.md"
               }
             }
           },
@@ -205,34 +269,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e091414d528b774b",
+  "active": "2763ea0cfada4e99",
   "lastOpenFiles": [
-    "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
-    "MASTER SKILLS/LIFE/祷告.md",
-    "MASTER SKILLS/LIFE/LIFE.md",
-    "MASTER SKILLS/COMPUTOR SCIENCE/Software Engineering.md",
-    "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md",
+    "MASTER SKILLS/READING/大学之路.md",
     "MASTER SKILLS.md",
-    "MASTER SKILLS/READING/NONFICTION.md",
-    "MASTER SKILLS/READING/纳瓦尔宝典.md",
     "MASTER SKILLS/READING/READING.md",
-    "MASTER SKILLS/LIFE/门训.md",
-    "MASTER SKILLS/LIFE/基督是分开的吗.md",
-    "MASTER SKILLS/LIFE/杭电小组.md",
-    "MASTER SKILLS/LIFE/生命长进的道路.md",
-    "MASTER SKILLS/LIFE/合神心意的事奉.md",
-    "MASTER SKILLS/LIFE/BIBLE.md",
-    "MASTER SKILLS/LIFE/走出婚姻的误区.md",
-    "MASTER SKILLS/LIFE/书籍LI.md",
-    "MASTER SKILLS/LIFE/祷告 从责任到喜乐.md",
-    "MASTER SKILLS/MUSIC/MUSIC THEORY.md",
-    "MASTER SKILLS/MUSIC/MUSIC.md",
-    "MASTER SKILLS/MUSIC/PIANO.md",
+    "MASTER SKILLS/READING/如何阅读一本书.md",
+    "MASTER SKILLS/READING/文明之光.md",
+    "MASTER SKILLS/READING/沉思录.md",
+    "MASTER SKILLS/READING/约翰克里斯多夫.md",
+    "MASTER SKILLS/READING/论幸福的生活.md",
     "MASTER SKILLS/READING/FICTION.md",
-    "MASTER SKILLS/READING/卡拉马佐夫兄弟.md",
-    "MASTER SKILLS/READING/禅与摩托车维修艺术.md",
-    "MASTER SKILLS/READING/西塞罗 修辞学.md",
-    "MASTER SKILLS/READING/亚里士多德 修辞学.md",
+    "MASTER SKILLS/READING/NONFICTION.md",
+    "MASTER SKILLS/READING/元智慧.md",
+    "MASTER SKILLS/LIFE/小组成员档案.md",
+    "MASTER SKILLS/LIFE/LIFE.md",
+    "MASTER SKILLS/LIFE/杭电小组.md",
+    "MASTER SKILLS/LIFE/YUANHAO.md",
+    "MASTER SKILLS/LIFE/ENPEI.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md",
+    "MASTER SKILLS/LIFE/祷告.md",
+    "MASTER SKILLS/LIFE/门训.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/MACHINE LEARNING.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/博文阅读.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/Software Engineering.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
+    "MASTER SKILLS/READING/纳瓦尔宝典.md",
+    "MASTER SKILLS/LIFE/基督是分开的吗.md",
+    "MASTER SKILLS/LIFE/生命长进的道路.md",
     "MASTER SKILLS/TRAVEL MAP",
     "MASTER SKILLS/ENGLISH",
     "MASTER SKILLS/MATH",

@@ -1,52 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "风险管控",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md"
+      "basename": "YUANHAO",
+      "path": "MASTER SKILLS/LIFE/YUANHAO.md"
     },
     {
-      "basename": "祷告",
-      "path": "MASTER SKILLS/LIFE/祷告.md"
-    },
-    {
-      "basename": "LIFE",
-      "path": "MASTER SKILLS/LIFE/LIFE.md"
-    },
-    {
-      "basename": "Software Engineering",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/Software Engineering.md"
-    },
-    {
-      "basename": "COMPUTOR SCIENCE",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md"
+      "basename": "大学之路",
+      "path": "MASTER SKILLS/READING/大学之路.md"
     },
     {
       "basename": "MASTER SKILLS",
       "path": "MASTER SKILLS.md"
     },
     {
+      "basename": "READING",
+      "path": "MASTER SKILLS/READING/READING.md"
+    },
+    {
+      "basename": "如何阅读一本书",
+      "path": "MASTER SKILLS/READING/如何阅读一本书.md"
+    },
+    {
+      "basename": "文明之光",
+      "path": "MASTER SKILLS/READING/文明之光.md"
+    },
+    {
+      "basename": "沉思录",
+      "path": "MASTER SKILLS/READING/沉思录.md"
+    },
+    {
+      "basename": "约翰克里斯多夫",
+      "path": "MASTER SKILLS/READING/约翰克里斯多夫.md"
+    },
+    {
+      "basename": "论幸福的生活",
+      "path": "MASTER SKILLS/READING/论幸福的生活.md"
+    },
+    {
+      "basename": "FICTION",
+      "path": "MASTER SKILLS/READING/FICTION.md"
+    },
+    {
       "basename": "NONFICTION",
       "path": "MASTER SKILLS/READING/NONFICTION.md"
     },
     {
-      "basename": "纳瓦尔宝典",
-      "path": "MASTER SKILLS/READING/纳瓦尔宝典.md"
+      "basename": "元智慧",
+      "path": "MASTER SKILLS/READING/元智慧.md"
     },
     {
-      "basename": "READING",
-      "path": "MASTER SKILLS/READING/READING.md"
+      "basename": "小组成员档案",
+      "path": "MASTER SKILLS/LIFE/小组成员档案.md"
+    },
+    {
+      "basename": "LIFE",
+      "path": "MASTER SKILLS/LIFE/LIFE.md"
+    },
+    {
+      "basename": "杭电小组",
+      "path": "MASTER SKILLS/LIFE/杭电小组.md"
+    },
+    {
+      "basename": "ENPEI",
+      "path": "MASTER SKILLS/LIFE/ENPEI.md"
+    },
+    {
+      "basename": "COMPUTOR SCIENCE",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md"
+    },
+    {
+      "basename": "祷告",
+      "path": "MASTER SKILLS/LIFE/祷告.md"
     },
     {
       "basename": "门训",
       "path": "MASTER SKILLS/LIFE/门训.md"
     },
     {
-      "basename": "基督是分开的吗",
-      "path": "MASTER SKILLS/LIFE/基督是分开的吗.md"
+      "basename": "MACHINE LEARNING",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/MACHINE LEARNING.md"
     },
     {
-      "basename": "杭电小组",
-      "path": "MASTER SKILLS/LIFE/杭电小组.md"
+      "basename": "博文阅读",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/博文阅读.md"
+    },
+    {
+      "basename": "Software Engineering",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/Software Engineering.md"
+    },
+    {
+      "basename": "风险管控",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md"
+    },
+    {
+      "basename": "纳瓦尔宝典",
+      "path": "MASTER SKILLS/READING/纳瓦尔宝典.md"
+    },
+    {
+      "basename": "基督是分开的吗",
+      "path": "MASTER SKILLS/LIFE/基督是分开的吗.md"
     },
     {
       "basename": "生命长进的道路",
@@ -85,10 +137,6 @@
       "path": "MASTER SKILLS/MUSIC/PIANO.md"
     },
     {
-      "basename": "FICTION",
-      "path": "MASTER SKILLS/READING/FICTION.md"
-    },
-    {
       "basename": "卡拉马佐夫兄弟",
       "path": "MASTER SKILLS/READING/卡拉马佐夫兄弟.md"
     },
@@ -111,10 +159,6 @@
     {
       "basename": "我们的身体",
       "path": "MASTER SKILLS/READING/我们的身体.md"
-    },
-    {
-      "basename": "元智慧",
-      "path": "MASTER SKILLS/READING/元智慧.md"
     },
     {
       "basename": "微积分素材",
@@ -155,42 +199,6 @@
     {
       "basename": "传福音",
       "path": "MASTER SKILLS/LIFE/传福音.md"
-    },
-    {
-      "basename": "明白神的旨意",
-      "path": "MASTER SKILLS/LIFE/明白神的旨意.md"
-    },
-    {
-      "basename": "浸礼",
-      "path": "MASTER SKILLS/LIFE/浸礼.md"
-    },
-    {
-      "basename": "得救的确据",
-      "path": "MASTER SKILLS/LIFE/得救的确据.md"
-    },
-    {
-      "basename": "禁食祷告",
-      "path": "MASTER SKILLS/LIFE/禁食祷告.md"
-    },
-    {
-      "basename": "查经",
-      "path": "MASTER SKILLS/LIFE/查经.md"
-    },
-    {
-      "basename": "教会生活",
-      "path": "MASTER SKILLS/LIFE/教会生活.md"
-    },
-    {
-      "basename": "灵修",
-      "path": "MASTER SKILLS/LIFE/灵修.md"
-    },
-    {
-      "basename": "NORWAY",
-      "path": "MASTER SKILLS/TRAVEL MAP/NORWAY.md"
-    },
-    {
-      "basename": "THE WORLD",
-      "path": "MASTER SKILLS/TRAVEL MAP/THE WORLD.md"
     }
   ],
   "omittedPaths": []
