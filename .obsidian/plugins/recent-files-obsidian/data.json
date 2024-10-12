@@ -1,24 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "YUANHAO",
-      "path": "MASTER SKILLS/LIFE/YUANHAO.md"
-    },
-    {
-      "basename": "大学之路",
-      "path": "MASTER SKILLS/READING/大学之路.md"
-    },
-    {
-      "basename": "MASTER SKILLS",
-      "path": "MASTER SKILLS.md"
-    },
-    {
-      "basename": "READING",
-      "path": "MASTER SKILLS/READING/READING.md"
-    },
-    {
-      "basename": "如何阅读一本书",
-      "path": "MASTER SKILLS/READING/如何阅读一本书.md"
+      "basename": "论幸福的生活",
+      "path": "MASTER SKILLS/READING/论幸福的生活.md"
     },
     {
       "basename": "文明之光",
@@ -33,8 +17,32 @@
       "path": "MASTER SKILLS/READING/约翰克里斯多夫.md"
     },
     {
-      "basename": "论幸福的生活",
-      "path": "MASTER SKILLS/READING/论幸福的生活.md"
+      "basename": "灵修",
+      "path": "MASTER SKILLS/LIFE/灵修.md"
+    },
+    {
+      "basename": "小组成员档案",
+      "path": "MASTER SKILLS/LIFE/小组成员档案.md"
+    },
+    {
+      "basename": "MASTER SKILLS",
+      "path": "MASTER SKILLS.md"
+    },
+    {
+      "basename": "YUANHAO",
+      "path": "MASTER SKILLS/LIFE/YUANHAO.md"
+    },
+    {
+      "basename": "大学之路",
+      "path": "MASTER SKILLS/READING/大学之路.md"
+    },
+    {
+      "basename": "READING",
+      "path": "MASTER SKILLS/READING/READING.md"
+    },
+    {
+      "basename": "如何阅读一本书",
+      "path": "MASTER SKILLS/READING/如何阅读一本书.md"
     },
     {
       "basename": "FICTION",
@@ -47,10 +55,6 @@
     {
       "basename": "元智慧",
       "path": "MASTER SKILLS/READING/元智慧.md"
-    },
-    {
-      "basename": "小组成员档案",
-      "path": "MASTER SKILLS/LIFE/小组成员档案.md"
     },
     {
       "basename": "LIFE",
@@ -195,10 +199,6 @@
     {
       "basename": "有异象的人生",
       "path": "MASTER SKILLS/LIFE/有异象的人生.md"
-    },
-    {
-      "basename": "传福音",
-      "path": "MASTER SKILLS/LIFE/传福音.md"
     }
   ],
   "omittedPaths": []
