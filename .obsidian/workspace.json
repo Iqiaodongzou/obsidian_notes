@@ -13,62 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASTER SKILLS/READING/大学之路.md",
+                "file": "贪婪的多巴胺.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "贪婪的多巴胺"
             }
           },
           {
-            "id": "07608a22ffae2aa7",
+            "id": "fb9e4874b9359897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASTER SKILLS/READING/论幸福的生活.md",
+                "file": "会饮篇.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "会饮篇"
             }
           },
           {
-            "id": "e091414d528b774b",
+            "id": "50c4026d25e16ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASTER SKILLS/READING/文明之光.md",
+                "file": "分布式系统学校资料.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0a190b95b71ecb59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MASTER SKILLS/READING/大学之路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cc027425d008d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MASTER SKILLS/READING/沉思录.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "分布式系统学校资料"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -103,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -119,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -141,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -150,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MASTER SKILLS/READING/论幸福的生活.md",
+                "file": "分布式系统学校资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +150,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 分布式系统学校资料"
             }
           },
           {
@@ -167,10 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MASTER SKILLS/READING/论幸福的生活.md",
+                "file": "分布式系统学校资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 分布式系统学校资料"
             }
           },
           {
@@ -181,7 +177,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -190,8 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MASTER SKILLS/READING/论幸福的生活.md"
-              }
+                "file": "分布式系统学校资料.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 分布式系统学校资料"
             }
           },
           {
@@ -199,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -221,34 +223,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07608a22ffae2aa7",
+  "active": "50c4026d25e16ee6",
   "lastOpenFiles": [
-    "MASTER SKILLS/READING/文明之光.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md",
+    "分布式系统学校资料.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/分布式应用.md",
+    "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md",
+    "在基督里长进.md",
+    "MASTER SKILLS/LIFE/认识真理.md",
+    "会饮篇.md",
+    "贪婪的多巴胺.md",
+    "MASTER SKILLS/READING/金字塔原理.md",
+    "MASTER SKILLS/LIFE/书籍LI.md",
+    "MASTER SKILLS/LIFE/LIFE.md",
+    "MASTER SKILLS/LIFE/门训.md",
+    "MASTER SKILLS.md",
+    "MASTER SKILLS/READING/READING.md",
+    "MASTER SKILLS/READING/NONFICTION.md",
+    "MASTER SKILLS/LIFE/婚姻的意义.md",
+    "MASTER SKILLS/READING/FICTION.md",
+    "MASTER SKILLS/LIFE/走出婚姻的误区.md",
     "MASTER SKILLS/READING/沉思录.md",
+    "MASTER SKILLS/READING/论幸福的生活.md",
+    "MASTER SKILLS/READING/大学之路.md",
+    "MASTER SKILLS/READING/文明之光.md",
     "MASTER SKILLS/READING/约翰克里斯多夫.md",
     "MASTER SKILLS/LIFE/灵修.md",
     "MASTER SKILLS/LIFE/小组成员档案.md",
-    "MASTER SKILLS.md",
     "MASTER SKILLS/LIFE/YUANHAO.md",
-    "MASTER SKILLS/READING/大学之路.md",
-    "MASTER SKILLS/READING/READING.md",
-    "MASTER SKILLS/READING/如何阅读一本书.md",
-    "MASTER SKILLS/READING/论幸福的生活.md",
-    "MASTER SKILLS/READING/FICTION.md",
-    "MASTER SKILLS/READING/NONFICTION.md",
-    "MASTER SKILLS/READING/元智慧.md",
-    "MASTER SKILLS/LIFE/LIFE.md",
-    "MASTER SKILLS/LIFE/杭电小组.md",
-    "MASTER SKILLS/LIFE/ENPEI.md",
-    "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md",
-    "MASTER SKILLS/LIFE/祷告.md",
-    "MASTER SKILLS/LIFE/门训.md",
-    "MASTER SKILLS/COMPUTOR SCIENCE/MACHINE LEARNING.md",
-    "MASTER SKILLS/COMPUTOR SCIENCE/博文阅读.md",
-    "MASTER SKILLS/COMPUTOR SCIENCE/Software Engineering.md",
-    "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md",
-    "MASTER SKILLS/READING/纳瓦尔宝典.md",
-    "MASTER SKILLS/LIFE/基督是分开的吗.md",
     "MASTER SKILLS/TRAVEL MAP",
     "MASTER SKILLS/ENGLISH",
     "MASTER SKILLS/MATH",

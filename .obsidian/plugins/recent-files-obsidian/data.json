@@ -1,16 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "论幸福的生活",
-      "path": "MASTER SKILLS/READING/论幸福的生活.md"
+      "basename": "分布式系统学校资料",
+      "path": "分布式系统学校资料.md"
     },
     {
-      "basename": "文明之光",
-      "path": "MASTER SKILLS/READING/文明之光.md"
+      "basename": "ERLANG",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md"
+    },
+    {
+      "basename": "分布式应用",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/分布式应用.md"
+    },
+    {
+      "basename": "LANGUAGE",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md"
+    },
+    {
+      "basename": "在基督里长进",
+      "path": "在基督里长进.md"
+    },
+    {
+      "basename": "认识真理",
+      "path": "MASTER SKILLS/LIFE/认识真理.md"
+    },
+    {
+      "basename": "会饮篇",
+      "path": "会饮篇.md"
+    },
+    {
+      "basename": "贪婪的多巴胺",
+      "path": "贪婪的多巴胺.md"
+    },
+    {
+      "basename": "金字塔原理",
+      "path": "MASTER SKILLS/READING/金字塔原理.md"
+    },
+    {
+      "basename": "书籍LI",
+      "path": "MASTER SKILLS/LIFE/书籍LI.md"
+    },
+    {
+      "basename": "LIFE",
+      "path": "MASTER SKILLS/LIFE/LIFE.md"
+    },
+    {
+      "basename": "门训",
+      "path": "MASTER SKILLS/LIFE/门训.md"
+    },
+    {
+      "basename": "MASTER SKILLS",
+      "path": "MASTER SKILLS.md"
+    },
+    {
+      "basename": "READING",
+      "path": "MASTER SKILLS/READING/READING.md"
+    },
+    {
+      "basename": "NONFICTION",
+      "path": "MASTER SKILLS/READING/NONFICTION.md"
+    },
+    {
+      "basename": "婚姻的意义",
+      "path": "MASTER SKILLS/LIFE/婚姻的意义.md"
+    },
+    {
+      "basename": "FICTION",
+      "path": "MASTER SKILLS/READING/FICTION.md"
+    },
+    {
+      "basename": "走出婚姻的误区",
+      "path": "MASTER SKILLS/LIFE/走出婚姻的误区.md"
     },
     {
       "basename": "沉思录",
       "path": "MASTER SKILLS/READING/沉思录.md"
+    },
+    {
+      "basename": "论幸福的生活",
+      "path": "MASTER SKILLS/READING/论幸福的生活.md"
+    },
+    {
+      "basename": "大学之路",
+      "path": "MASTER SKILLS/READING/大学之路.md"
+    },
+    {
+      "basename": "文明之光",
+      "path": "MASTER SKILLS/READING/文明之光.md"
     },
     {
       "basename": "约翰克里斯多夫",
@@ -25,40 +101,16 @@
       "path": "MASTER SKILLS/LIFE/小组成员档案.md"
     },
     {
-      "basename": "MASTER SKILLS",
-      "path": "MASTER SKILLS.md"
-    },
-    {
       "basename": "YUANHAO",
       "path": "MASTER SKILLS/LIFE/YUANHAO.md"
-    },
-    {
-      "basename": "大学之路",
-      "path": "MASTER SKILLS/READING/大学之路.md"
-    },
-    {
-      "basename": "READING",
-      "path": "MASTER SKILLS/READING/READING.md"
     },
     {
       "basename": "如何阅读一本书",
       "path": "MASTER SKILLS/READING/如何阅读一本书.md"
     },
     {
-      "basename": "FICTION",
-      "path": "MASTER SKILLS/READING/FICTION.md"
-    },
-    {
-      "basename": "NONFICTION",
-      "path": "MASTER SKILLS/READING/NONFICTION.md"
-    },
-    {
       "basename": "元智慧",
       "path": "MASTER SKILLS/READING/元智慧.md"
-    },
-    {
-      "basename": "LIFE",
-      "path": "MASTER SKILLS/LIFE/LIFE.md"
     },
     {
       "basename": "杭电小组",
@@ -75,10 +127,6 @@
     {
       "basename": "祷告",
       "path": "MASTER SKILLS/LIFE/祷告.md"
-    },
-    {
-      "basename": "门训",
-      "path": "MASTER SKILLS/LIFE/门训.md"
     },
     {
       "basename": "MACHINE LEARNING",
@@ -117,14 +165,6 @@
       "path": "MASTER SKILLS/LIFE/BIBLE.md"
     },
     {
-      "basename": "走出婚姻的误区",
-      "path": "MASTER SKILLS/LIFE/走出婚姻的误区.md"
-    },
-    {
-      "basename": "书籍LI",
-      "path": "MASTER SKILLS/LIFE/书籍LI.md"
-    },
-    {
       "basename": "祷告 从责任到喜乐",
       "path": "MASTER SKILLS/LIFE/祷告 从责任到喜乐.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "三国演义",
       "path": "MASTER SKILLS/READING/三国演义.md"
-    },
-    {
-      "basename": "我们的身体",
-      "path": "MASTER SKILLS/READING/我们的身体.md"
-    },
-    {
-      "basename": "微积分素材",
-      "path": "MASTER SKILLS/MATH/微积分素材.md"
-    },
-    {
-      "basename": "MATH",
-      "path": "MASTER SKILLS/MATH/MATH.md"
-    },
-    {
-      "basename": "穷查理宝典",
-      "path": "MASTER SKILLS/READING/穷查理宝典.md"
-    },
-    {
-      "basename": "态度",
-      "path": "MASTER SKILLS/READING/态度.md"
-    },
-    {
-      "basename": "做个好管家",
-      "path": "MASTER SKILLS/LIFE/做个好管家.md"
-    },
-    {
-      "basename": "得胜的生活",
-      "path": "MASTER SKILLS/LIFE/得胜的生活.md"
-    },
-    {
-      "basename": "总结",
-      "path": "MASTER SKILLS/LIFE/总结.md"
-    },
-    {
-      "basename": "勉励的话",
-      "path": "MASTER SKILLS/LIFE/勉励的话.md"
-    },
-    {
-      "basename": "有异象的人生",
-      "path": "MASTER SKILLS/LIFE/有异象的人生.md"
     }
   ],
   "omittedPaths": []
