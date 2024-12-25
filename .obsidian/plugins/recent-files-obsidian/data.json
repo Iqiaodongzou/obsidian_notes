@@ -1,40 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "分布式系统学校资料",
-      "path": "分布式系统学校资料.md"
-    },
-    {
-      "basename": "ERLANG",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md"
-    },
-    {
-      "basename": "分布式应用",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/分布式应用.md"
-    },
-    {
-      "basename": "LANGUAGE",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md"
-    },
-    {
-      "basename": "在基督里长进",
-      "path": "在基督里长进.md"
-    },
-    {
-      "basename": "认识真理",
-      "path": "MASTER SKILLS/LIFE/认识真理.md"
-    },
-    {
-      "basename": "会饮篇",
-      "path": "会饮篇.md"
-    },
-    {
-      "basename": "贪婪的多巴胺",
-      "path": "贪婪的多巴胺.md"
-    },
-    {
-      "basename": "金字塔原理",
-      "path": "MASTER SKILLS/READING/金字塔原理.md"
+      "basename": "改变生命的教学",
+      "path": "改变生命的教学.md"
     },
     {
       "basename": "书籍LI",
@@ -45,20 +13,128 @@
       "path": "MASTER SKILLS/LIFE/LIFE.md"
     },
     {
-      "basename": "门训",
-      "path": "MASTER SKILLS/LIFE/门训.md"
-    },
-    {
       "basename": "MASTER SKILLS",
       "path": "MASTER SKILLS.md"
+    },
+    {
+      "basename": "COMPUTOR SCIENCE",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md"
+    },
+    {
+      "basename": "LANGUAGE",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md"
+    },
+    {
+      "basename": "ERLANG",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md"
+    },
+    {
+      "basename": "态度",
+      "path": "MASTER SKILLS/READING/态度.md"
+    },
+    {
+      "basename": "机器视觉",
+      "path": "机器视觉.md"
+    },
+    {
+      "basename": "Software Engineering",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/Software Engineering.md"
+    },
+    {
+      "basename": "CODEBASE",
+      "path": "CODEBASE.md"
+    },
+    {
+      "basename": "杭电小组",
+      "path": "MASTER SKILLS/LIFE/杭电小组.md"
+    },
+    {
+      "basename": "小组成员档案",
+      "path": "MASTER SKILLS/LIFE/小组成员档案.md"
+    },
+    {
+      "basename": "JIAOU",
+      "path": "JIAOU.md"
+    },
+    {
+      "basename": "LINLIN",
+      "path": "MASTER SKILLS/LIFE/LINLIN.md"
+    },
+    {
+      "basename": "YANGYANG",
+      "path": "MASTER SKILLS/LIFE/YANGYANG.md"
+    },
+    {
+      "basename": "QIANQIAN",
+      "path": "MASTER SKILLS/LIFE/QIANQIAN.md"
+    },
+    {
+      "basename": "ENPEI",
+      "path": "MASTER SKILLS/LIFE/ENPEI.md"
+    },
+    {
+      "basename": "在基督里长进",
+      "path": "在基督里长进.md"
+    },
+    {
+      "basename": "MACHINE LEARNING",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/MACHINE LEARNING.md"
+    },
+    {
+      "basename": "见识",
+      "path": "见识.md"
+    },
+    {
+      "basename": "贪婪的多巴胺",
+      "path": "贪婪的多巴胺.md"
+    },
+    {
+      "basename": "尼各马可伦理学",
+      "path": "尼各马可伦理学.md"
+    },
+    {
+      "basename": "会饮篇",
+      "path": "会饮篇.md"
+    },
+    {
+      "basename": "NONFICTION",
+      "path": "MASTER SKILLS/READING/NONFICTION.md"
+    },
+    {
+      "basename": "ZIXUAN",
+      "path": "ZIXUAN.md"
+    },
+    {
+      "basename": "YUANHAO",
+      "path": "MASTER SKILLS/LIFE/YUANHAO.md"
+    },
+    {
+      "basename": "亚里士多德 修辞学",
+      "path": "MASTER SKILLS/READING/亚里士多德 修辞学.md"
     },
     {
       "basename": "READING",
       "path": "MASTER SKILLS/READING/READING.md"
     },
     {
-      "basename": "NONFICTION",
-      "path": "MASTER SKILLS/READING/NONFICTION.md"
+      "basename": "分布式系统学校资料",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/分布式系统学校资料.md"
+    },
+    {
+      "basename": "分布式应用",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/分布式应用.md"
+    },
+    {
+      "basename": "认识真理",
+      "path": "MASTER SKILLS/LIFE/认识真理.md"
+    },
+    {
+      "basename": "金字塔原理",
+      "path": "MASTER SKILLS/READING/金字塔原理.md"
+    },
+    {
+      "basename": "门训",
+      "path": "MASTER SKILLS/LIFE/门训.md"
     },
     {
       "basename": "婚姻的意义",
@@ -97,14 +173,6 @@
       "path": "MASTER SKILLS/LIFE/灵修.md"
     },
     {
-      "basename": "小组成员档案",
-      "path": "MASTER SKILLS/LIFE/小组成员档案.md"
-    },
-    {
-      "basename": "YUANHAO",
-      "path": "MASTER SKILLS/LIFE/YUANHAO.md"
-    },
-    {
       "basename": "如何阅读一本书",
       "path": "MASTER SKILLS/READING/如何阅读一本书.md"
     },
@@ -113,32 +181,12 @@
       "path": "MASTER SKILLS/READING/元智慧.md"
     },
     {
-      "basename": "杭电小组",
-      "path": "MASTER SKILLS/LIFE/杭电小组.md"
-    },
-    {
-      "basename": "ENPEI",
-      "path": "MASTER SKILLS/LIFE/ENPEI.md"
-    },
-    {
-      "basename": "COMPUTOR SCIENCE",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md"
-    },
-    {
       "basename": "祷告",
       "path": "MASTER SKILLS/LIFE/祷告.md"
     },
     {
-      "basename": "MACHINE LEARNING",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/MACHINE LEARNING.md"
-    },
-    {
       "basename": "博文阅读",
       "path": "MASTER SKILLS/COMPUTOR SCIENCE/博文阅读.md"
-    },
-    {
-      "basename": "Software Engineering",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/Software Engineering.md"
     },
     {
       "basename": "风险管控",
@@ -151,54 +199,6 @@
     {
       "basename": "基督是分开的吗",
       "path": "MASTER SKILLS/LIFE/基督是分开的吗.md"
-    },
-    {
-      "basename": "生命长进的道路",
-      "path": "MASTER SKILLS/LIFE/生命长进的道路.md"
-    },
-    {
-      "basename": "合神心意的事奉",
-      "path": "MASTER SKILLS/LIFE/合神心意的事奉.md"
-    },
-    {
-      "basename": "BIBLE",
-      "path": "MASTER SKILLS/LIFE/BIBLE.md"
-    },
-    {
-      "basename": "祷告 从责任到喜乐",
-      "path": "MASTER SKILLS/LIFE/祷告 从责任到喜乐.md"
-    },
-    {
-      "basename": "MUSIC THEORY",
-      "path": "MASTER SKILLS/MUSIC/MUSIC THEORY.md"
-    },
-    {
-      "basename": "MUSIC",
-      "path": "MASTER SKILLS/MUSIC/MUSIC.md"
-    },
-    {
-      "basename": "PIANO",
-      "path": "MASTER SKILLS/MUSIC/PIANO.md"
-    },
-    {
-      "basename": "卡拉马佐夫兄弟",
-      "path": "MASTER SKILLS/READING/卡拉马佐夫兄弟.md"
-    },
-    {
-      "basename": "禅与摩托车维修艺术",
-      "path": "MASTER SKILLS/READING/禅与摩托车维修艺术.md"
-    },
-    {
-      "basename": "西塞罗 修辞学",
-      "path": "MASTER SKILLS/READING/西塞罗 修辞学.md"
-    },
-    {
-      "basename": "亚里士多德 修辞学",
-      "path": "MASTER SKILLS/READING/亚里士多德 修辞学.md"
-    },
-    {
-      "basename": "三国演义",
-      "path": "MASTER SKILLS/READING/三国演义.md"
     }
   ],
   "omittedPaths": []
