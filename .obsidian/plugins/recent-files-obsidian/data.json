@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "游叙弗伦",
+      "path": "MASTER SKILLS/READING/游叙弗伦.md"
+    },
+    {
+      "basename": "NONFICTION",
+      "path": "MASTER SKILLS/READING/NONFICTION.md"
+    },
+    {
+      "basename": "态度",
+      "path": "MASTER SKILLS/READING/态度.md"
+    },
+    {
+      "basename": "SCHEDULE",
+      "path": "SCHEDULE.md"
+    },
+    {
+      "basename": "项目学习",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/项目学习.md"
+    },
+    {
+      "basename": "ERLANG",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md"
+    },
+    {
       "basename": "改变生命的教学",
-      "path": "改变生命的教学.md"
+      "path": "MASTER SKILLS/READING/改变生命的教学.md"
+    },
+    {
+      "basename": "数学拆分与练习存档",
+      "path": "数学拆分与练习存档.md"
+    },
+    {
+      "basename": "ZIXUAN",
+      "path": "MASTER SKILLS/LIFE/ZIXUAN.md"
+    },
+    {
+      "basename": "会饮篇",
+      "path": "MASTER SKILLS/READING/会饮篇.md"
+    },
+    {
+      "basename": "GRAPHIC",
+      "path": "GRAPHIC.md"
+    },
+    {
+      "basename": "CODEBASE",
+      "path": "CODEBASE.md"
+    },
+    {
+      "basename": "JIAOU",
+      "path": "MASTER SKILLS/LIFE/JIAOU.md"
+    },
+    {
+      "basename": "MASTER SKILLS",
+      "path": "MASTER SKILLS.md"
+    },
+    {
+      "basename": "贪婪的多巴胺",
+      "path": "MASTER SKILLS/READING/贪婪的多巴胺.md"
+    },
+    {
+      "basename": "见识",
+      "path": "MASTER SKILLS/READING/见识.md"
+    },
+    {
+      "basename": "机器视觉",
+      "path": "MASTER SKILLS/READING/机器视觉.md"
+    },
+    {
+      "basename": "尼各马可伦理学",
+      "path": "MASTER SKILLS/READING/尼各马可伦理学.md"
+    },
+    {
+      "basename": "在基督里长进",
+      "path": "MASTER SKILLS/READING/在基督里长进.md"
     },
     {
       "basename": "书籍LI",
@@ -13,10 +85,6 @@
       "path": "MASTER SKILLS/LIFE/LIFE.md"
     },
     {
-      "basename": "MASTER SKILLS",
-      "path": "MASTER SKILLS.md"
-    },
-    {
       "basename": "COMPUTOR SCIENCE",
       "path": "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md"
     },
@@ -25,24 +93,8 @@
       "path": "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md"
     },
     {
-      "basename": "ERLANG",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md"
-    },
-    {
-      "basename": "态度",
-      "path": "MASTER SKILLS/READING/态度.md"
-    },
-    {
-      "basename": "机器视觉",
-      "path": "机器视觉.md"
-    },
-    {
       "basename": "Software Engineering",
       "path": "MASTER SKILLS/COMPUTOR SCIENCE/Software Engineering.md"
-    },
-    {
-      "basename": "CODEBASE",
-      "path": "CODEBASE.md"
     },
     {
       "basename": "杭电小组",
@@ -51,10 +103,6 @@
     {
       "basename": "小组成员档案",
       "path": "MASTER SKILLS/LIFE/小组成员档案.md"
-    },
-    {
-      "basename": "JIAOU",
-      "path": "JIAOU.md"
     },
     {
       "basename": "LINLIN",
@@ -73,36 +121,8 @@
       "path": "MASTER SKILLS/LIFE/ENPEI.md"
     },
     {
-      "basename": "在基督里长进",
-      "path": "在基督里长进.md"
-    },
-    {
       "basename": "MACHINE LEARNING",
       "path": "MASTER SKILLS/COMPUTOR SCIENCE/MACHINE LEARNING.md"
-    },
-    {
-      "basename": "见识",
-      "path": "见识.md"
-    },
-    {
-      "basename": "贪婪的多巴胺",
-      "path": "贪婪的多巴胺.md"
-    },
-    {
-      "basename": "尼各马可伦理学",
-      "path": "尼各马可伦理学.md"
-    },
-    {
-      "basename": "会饮篇",
-      "path": "会饮篇.md"
-    },
-    {
-      "basename": "NONFICTION",
-      "path": "MASTER SKILLS/READING/NONFICTION.md"
-    },
-    {
-      "basename": "ZIXUAN",
-      "path": "ZIXUAN.md"
     },
     {
       "basename": "YUANHAO",
@@ -179,26 +199,6 @@
     {
       "basename": "元智慧",
       "path": "MASTER SKILLS/READING/元智慧.md"
-    },
-    {
-      "basename": "祷告",
-      "path": "MASTER SKILLS/LIFE/祷告.md"
-    },
-    {
-      "basename": "博文阅读",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/博文阅读.md"
-    },
-    {
-      "basename": "风险管控",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/风险管控.md"
-    },
-    {
-      "basename": "纳瓦尔宝典",
-      "path": "MASTER SKILLS/READING/纳瓦尔宝典.md"
-    },
-    {
-      "basename": "基督是分开的吗",
-      "path": "MASTER SKILLS/LIFE/基督是分开的吗.md"
     }
   ],
   "omittedPaths": []
