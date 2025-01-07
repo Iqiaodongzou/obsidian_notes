@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "游叙弗伦",
-      "path": "MASTER SKILLS/READING/游叙弗伦.md"
+      "basename": "元智慧",
+      "path": "MASTER SKILLS/READING/元智慧.md"
+    },
+    {
+      "basename": "READING",
+      "path": "MASTER SKILLS/READING/READING.md"
+    },
+    {
+      "basename": "软能力",
+      "path": "MASTER SKILLS/READING/软能力.md"
     },
     {
       "basename": "NONFICTION",
       "path": "MASTER SKILLS/READING/NONFICTION.md"
     },
     {
-      "basename": "态度",
-      "path": "MASTER SKILLS/READING/态度.md"
+      "basename": "MASTER SKILLS",
+      "path": "MASTER SKILLS.md"
     },
     {
-      "basename": "SCHEDULE",
-      "path": "SCHEDULE.md"
+      "basename": "LIFE",
+      "path": "MASTER SKILLS/LIFE/LIFE.md"
+    },
+    {
+      "basename": "书籍LI",
+      "path": "MASTER SKILLS/LIFE/书籍LI.md"
+    },
+    {
+      "basename": "婚姻的意义",
+      "path": "MASTER SKILLS/LIFE/婚姻的意义.md"
+    },
+    {
+      "basename": "COMPUTOR SCIENCE",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md"
+    },
+    {
+      "basename": "LANGUAGE",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md"
+    },
+    {
+      "basename": "ERLANG",
+      "path": "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md"
     },
     {
       "basename": "项目学习",
       "path": "MASTER SKILLS/COMPUTOR SCIENCE/项目学习.md"
     },
     {
-      "basename": "ERLANG",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/ERLANG.md"
+      "basename": "态度",
+      "path": "MASTER SKILLS/READING/态度.md"
+    },
+    {
+      "basename": "游叙弗伦",
+      "path": "MASTER SKILLS/READING/游叙弗伦.md"
+    },
+    {
+      "basename": "SCHEDULE",
+      "path": "SCHEDULE.md"
     },
     {
       "basename": "改变生命的教学",
@@ -53,10 +89,6 @@
       "path": "MASTER SKILLS/LIFE/JIAOU.md"
     },
     {
-      "basename": "MASTER SKILLS",
-      "path": "MASTER SKILLS.md"
-    },
-    {
       "basename": "贪婪的多巴胺",
       "path": "MASTER SKILLS/READING/贪婪的多巴胺.md"
     },
@@ -75,22 +107,6 @@
     {
       "basename": "在基督里长进",
       "path": "MASTER SKILLS/READING/在基督里长进.md"
-    },
-    {
-      "basename": "书籍LI",
-      "path": "MASTER SKILLS/LIFE/书籍LI.md"
-    },
-    {
-      "basename": "LIFE",
-      "path": "MASTER SKILLS/LIFE/LIFE.md"
-    },
-    {
-      "basename": "COMPUTOR SCIENCE",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/COMPUTOR SCIENCE.md"
-    },
-    {
-      "basename": "LANGUAGE",
-      "path": "MASTER SKILLS/COMPUTOR SCIENCE/LANGUAGE.md"
     },
     {
       "basename": "Software Engineering",
@@ -133,10 +149,6 @@
       "path": "MASTER SKILLS/READING/亚里士多德 修辞学.md"
     },
     {
-      "basename": "READING",
-      "path": "MASTER SKILLS/READING/READING.md"
-    },
-    {
       "basename": "分布式系统学校资料",
       "path": "MASTER SKILLS/COMPUTOR SCIENCE/分布式系统学校资料.md"
     },
@@ -155,10 +167,6 @@
     {
       "basename": "门训",
       "path": "MASTER SKILLS/LIFE/门训.md"
-    },
-    {
-      "basename": "婚姻的意义",
-      "path": "MASTER SKILLS/LIFE/婚姻的意义.md"
     },
     {
       "basename": "FICTION",
@@ -191,14 +199,6 @@
     {
       "basename": "灵修",
       "path": "MASTER SKILLS/LIFE/灵修.md"
-    },
-    {
-      "basename": "如何阅读一本书",
-      "path": "MASTER SKILLS/READING/如何阅读一本书.md"
-    },
-    {
-      "basename": "元智慧",
-      "path": "MASTER SKILLS/READING/元智慧.md"
     }
   ],
   "omittedPaths": []
