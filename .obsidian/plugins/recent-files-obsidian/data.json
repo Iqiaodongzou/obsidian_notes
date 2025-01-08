@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "元智慧",
-      "path": "MASTER SKILLS/READING/元智慧.md"
+      "basename": "卓越",
+      "path": "MASTER SKILLS/READING/卓越.md"
+    },
+    {
+      "basename": "NONFICTION",
+      "path": "MASTER SKILLS/READING/NONFICTION.md"
     },
     {
       "basename": "READING",
       "path": "MASTER SKILLS/READING/READING.md"
     },
     {
-      "basename": "软能力",
-      "path": "MASTER SKILLS/READING/软能力.md"
+      "basename": "尼各马可伦理学",
+      "path": "MASTER SKILLS/READING/尼各马可伦理学.md"
     },
     {
-      "basename": "NONFICTION",
-      "path": "MASTER SKILLS/READING/NONFICTION.md"
+      "basename": "元智慧",
+      "path": "MASTER SKILLS/READING/元智慧.md"
+    },
+    {
+      "basename": "软能力",
+      "path": "MASTER SKILLS/READING/软能力.md"
     },
     {
       "basename": "MASTER SKILLS",
@@ -99,10 +107,6 @@
     {
       "basename": "机器视觉",
       "path": "MASTER SKILLS/READING/机器视觉.md"
-    },
-    {
-      "basename": "尼各马可伦理学",
-      "path": "MASTER SKILLS/READING/尼各马可伦理学.md"
     },
     {
       "basename": "在基督里长进",
@@ -195,10 +199,6 @@
     {
       "basename": "约翰克里斯多夫",
       "path": "MASTER SKILLS/READING/约翰克里斯多夫.md"
-    },
-    {
-      "basename": "灵修",
-      "path": "MASTER SKILLS/LIFE/灵修.md"
     }
   ],
   "omittedPaths": []
